@@ -59,7 +59,7 @@ access http://localhost:5000 for the website.
 - [@Dhiman-Nayak](https://github.com/Dhiman-Nayak)
 - [@Diya-Chad](https://github.com/Diya-Chad)
 - [@kingshere](https://github.com/kingshere)
-- [@Ricky4590](https://github.com/Ricky4590)
+- [@AdroitPhilocalist](https://github.com/AdroitPhilocalist)
 
   
 
